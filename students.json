@@ -1,0 +1,35 @@
+[
+    {
+        "name": "sadiya",
+        "usn": "1kt23cs092",
+        "father_name": "siraj pasha",
+        "mother_name": "ayesha sultana",
+        "date_of_joining": "12-12-2023",
+        "year_of_graduation": "2027",
+        "fees_paid": "yes",
+        "attendance": "100",
+        "marks": "100"
+    },
+    {
+        "name": "namratha  baddie",
+        "usn": "1kt23cs128",
+        "father_name": "natraj",
+        "mother_name": "annapoorna",
+        "date_of_joining": "12-12-2023",
+        "year_of_graduation": "2027",
+        "fees_paid": "yes",
+        "attendance": "100",
+        "marks": "100"
+    },
+    {
+        "name": "srujana",
+        "usn": "1kt23cs106",
+        "father_name": "shanmukkiah",
+        "mother_name": "soumya",
+        "date_of_joining": "12-12-2023",
+        "year_of_graduation": "2027",
+        "fees_paid": "yes",
+        "attendance": "100",
+        "marks": "100"
+    }
+]
